@@ -1,0 +1,30 @@
+Como evitar o Viés de Confirmação?
+
+1. Definimos as Hipóteses ANTES de olhar os dados
+2. Usamos a Análise Exploratória de Dados para Validar ou Refutar as Hipóteses
+
+Quais os Objetivos da Análise Exploratória dos Dados?
+
+1. Ganhar Experiência de Negócio através dos Dados
+2. Gerar Insights para o Time de Negócio.
+    a. Tomada de Decisão (Data Driven)
+3. Avaliar o Impacto das Features sobre o Fenômeno.    
+
+Como Criar Hipóteses de Negócio?
+
+1. As Hipóteses são criadas ANTES da Coleta de Dados
+2. A Hipótese precisa ser sempre uma AFIRMAÇÂO!
+3. A Hipótese precisa ter um número base de COMPARAÇÂO.
+
+4. AS Hipótese são validadas pelos Especialistas de Negócio.
+
+Utilizar Mind Map de Hipóteses para gerar as Hipóteses
+
+As Características de um Insights
+
+1. O Insight Precisa Se Acionável
+    a. Uma hipótese sem ação é uma CURIOIDADE
+2. O Insight quebra uma crença do time de Negócio.
+    a. "Eu acreditava que os maiores agendamentos aconteciam fora dos Estados Unidos".
+3. O Insight gera uma surpresa para o time de negócio.
+    a. "Que legal, eu não sabia disso".

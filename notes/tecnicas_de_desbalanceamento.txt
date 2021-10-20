@@ -1,0 +1,49 @@
+TÉCNICAS DE BALANCEAMENTO
+
+1. COLETAR MAIS DADOS
+    a. Coletar mais dados.
+    b. Esperar a geração de mais dados
+    c. Aumentar os limites da filtragem dos dados
+
+2. Reamostrar os Dados.
+    a. Técnicas de Undersampling
+    b. Técnicas de Oversampling
+
+3. Gerar Exemplos Sintéticos
+    a. Criar Exemplos Baseados nos Existentes
+
+4. Atribuir Viés ao Modelo (peso para cada classe)
+    a. Atribuir o viés de desbalanceamento no Modelo
+
+
+===========================================================================================
+TÉCNICAS DE REAMOSTRAGEM
+
+1. Técnicas de Undersampling
+    a. Random
+    b. Condensed Nearest Neighbour
+    c. NearMiss
+    d. TomekLinks
+
+2. Técnicas de Oversampling Repetição
+    a. Random
+        Vantagem 
+            -> Um método rápido e fácil
+        Desvantagem 
+            -> Aumento na repetição dos exemplos de treino
+            -> Aumento nas chances de Overfitting
+            -> Não adiciona nenhuma informação sobre o fenômeno
+        Quando uso essa técnica?
+            -> Quando não é possível coletar mais Dados das classes.
+            -> O problema não possui uma natureza desbalanceada (não adianta aplicar oversampling num problema de detecção de fraudes)
+
+
+3. Técnicas de Oversampling com Geração de Dados Sintéticos
+    a. SMOTE ( Synthetic Minority Oversampling Technique)
+    b. ADASYN (Adaptiv Synthetic)
+    c. K-Means
+    d. Boderline
+    e. SVM
+
+============================================================================================
+
