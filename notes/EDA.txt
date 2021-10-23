@@ -28,3 +28,52 @@ As Características de um Insights
     a. "Eu acreditava que os maiores agendamentos aconteciam fora dos Estados Unidos".
 3. O Insight gera uma surpresa para o time de negócio.
     a. "Que legal, eu não sabia disso".
+
+
+======================================================================================
+
+Os dados desbalanceados são utilizados para validar as hipótese
+Os dados balanceados são utilizados para melhor o aprendizado do modelo
+
+========================================================================================
+Como Avaliar o Impacto das Features
+
+1. Análise Univariada
+    a. Como é a variável? (Min, Max, Distribuição, )
+
+2. Análise Bivariada.
+    a. Como a variável Impacta a Resposta? (Correlação)
+
+3. Análise Multivariada
+    a. Como as variáveis se Relacionam entre si?
+
+=============================================================================================
+Métricas da Análise Univariada
+
+    - Distribuição dos Dados
+    - Mínimo, Máximo, Range
+    - Quartil 01 e Quartil 03 (Q1 e Q3).
+    - Skew e kurtosis
+
+ Métricas de Análise Bivariada
+
+    - Categorical e Categorical -> Adjusted Cramer's Validar
+    - Continuous e Ordinais -> Point biserial Correlation e Logistic Regression
+    - Continuous e Continuous -> Pearson 
+    - Continuous e Ordinais -> Spearman
+
+ Métricas de Análise Multivariada
+    - Matriz de Correlação
+        - Pearson
+        - Spearman
+        - Cramer's V
+
+
+
+Prezados,
+
+Solicito autorização para fazer o exame conforme pedido médico de Maria Rezende Soares.  Telefone  para contato 33612048 ou 984776873.
+
+Att,
+
+Maria Rezende Soares
